@@ -1,0 +1,7 @@
+#map {
+    margin: auto;
+}
+
+.leaflet-tile-pane {
+    z-index: -1;
+}
